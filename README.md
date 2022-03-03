@@ -1,12 +1,37 @@
-### [ Live Site] { https://gericth.netlify.app/ }
+![Restaurant_Website](https://user-images.githubusercontent.com/93304640/156497751-1f9cc82e-28b3-4a47-8551-e22e93245f5b.png)
 
-## Introduction
+# Live site link ⬇️
 
-I created a Gericth Restaurant website using React js ⚛️
+https://gericth.netlify.app/
 
-Responsive ✔️ ( Website will work in Desktop, Tablet and Phone etc.)
+# Tech Stack 💻
 
-Figma Design 🤕 to Website 😎
+⚔️ React.js
 
-Setup:
-- run ```npm i && npm start``` for tge client and server side to start the development server
+⚔️ JavaScript
+
+⚔️ CSS
+
+⚔️ HTML
+
+# Tools 🔧
+
+⚓ Visual Studio Code
+
+⚓ NPM (Node Package manager)
+
+⚓ Git
+
+# Visuals 🌻
+
+![SS22](https://user-images.githubusercontent.com/93304640/156498723-02297fa0-e03a-4703-a66f-e7ae3696615f.png)
+
+
+# Installation 🔏
+
+
+You can use Visual Studio or your favourite IDE
+
+- clone the repository.
+- install the dependencies.
+- run `npm run start`.
