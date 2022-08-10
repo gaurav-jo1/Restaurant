@@ -4,7 +4,7 @@ import { SubHeading } from '../../components';
 
 import {images} from '../../constants';
 
-import './Chef.css';
+import './Chef.scss';
 
 const Chef = () => (
   <div className="app__bg app__wrapper section__padding">

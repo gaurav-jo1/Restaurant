@@ -2,7 +2,7 @@ import React, { useRef, useState } from "react";
 import { BsFillPlayFill, BsPauseFill } from "react-icons/bs";
 import { meal } from "../../constants";
 
-import "./Intro.css";
+import "./Intro.scss";
 
 const Intro = () => {
   const [playVideo, setPlayVideo] = useState(false);

@@ -2,7 +2,7 @@ import React from 'react';
 
 import SubHeading from '../SubHeading/SubHeading';
 
-import './Newsletter.css';
+import './Newsletter.scss';
 
 const Newsletter = () => (
   <div className='app__newsletter'>
